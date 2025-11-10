@@ -6,3 +6,9 @@ google-auth
 google-auth-oauthlib
 google-auth-httplib2
 plotly
+streamlit
+pandas
+plotly
+gspread
+oauth2client
+pytz
